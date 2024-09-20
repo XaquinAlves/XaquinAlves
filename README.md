@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XaquinAlves
 - 👀 I’m interested in Programming and Cybersecurity
-- 🌱 I’m currently learning Web Apps Development
+- 🌱 I’m currently learning Web Application Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: xaquinalves@gmail.com
 - ⚡ Fun fact: A
