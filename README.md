@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Application Development
 - 💞️ I’m looking to collaborate on any videogame project
 - 📫 How to reach me: xaquinalves@gmail.com
-- ⚡ Fun fact: A
+- ⚡ Fun fact: Java is Fire!
 
 <!---
 XaquinAlves/XaquinAlves is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
