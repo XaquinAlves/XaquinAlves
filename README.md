@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XaquinAlves
-- 👀 I’m interested in Programming and Cybersecurity
+- 👀 I’m interested in Programming and Videogames
 - 🌱 I’m currently learning Web Application Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any videogame project
 - 📫 How to reach me: xaquinalves@gmail.com
 - ⚡ Fun fact: A
 
